@@ -1,5 +1,15 @@
 # 程序员做饭指南
 
+
+## 串串香牛逼
+## 手抓饭牛逼
+## 炸酱面牛逼
+## 羊肉泡馍牛逼
+## 叉烧包牛逼
+## 热干面牛逼
+## 小笼包更牛逼
+
+
 [![build](https://github.com/Anduin2017/HowToCook/actions/workflows/build.yml/badge.svg)](https://github.com/Anduin2017/HowToCook/actions/workflows/build.yml)
 [![License](https://img.shields.io/github/license/Anduin2017/HowToCook)](./LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/Anduin2017/HowToCook)](https://github.com/Anduin2017/HowToCook/graphs/contributors)
